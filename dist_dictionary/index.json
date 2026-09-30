@@ -1,0 +1,114 @@
+{
+  "H": {
+    "file": "dictionary_H.json",
+    "count": 1036
+  },
+  "A": {
+    "file": "dictionary_A.json",
+    "count": 5675
+  },
+  "-": {
+    "file": "dictionary_-.json",
+    "count": 726
+  },
+  ")": {
+    "file": "dictionary_).json",
+    "count": 233
+  },
+  "P": {
+    "file": "dictionary_P.json",
+    "count": 5407
+  },
+  "(": {
+    "file": "dictionary_(.json",
+    "count": 65
+  },
+  "B": {
+    "file": "dictionary_B.json",
+    "count": 660
+  },
+  "G": {
+    "file": "dictionary_G.json",
+    "count": 78
+  },
+  "T": {
+    "file": "dictionary_T.json",
+    "count": 1195
+  },
+  "D": {
+    "file": "dictionary_D.json",
+    "count": 1409
+  },
+  "E": {
+    "file": "dictionary_E.json",
+    "count": 4752
+  },
+  "Z": {
+    "file": "dictionary_Z.json",
+    "count": 129
+  },
+  "Q": {
+    "file": "dictionary_Q.json",
+    "count": 643
+  },
+  "#": {
+    "file": "dictionary_#.json",
+    "count": 2
+  },
+  "I": {
+    "file": "dictionary_I.json",
+    "count": 477
+  },
+  "K": {
+    "file": "dictionary_K.json",
+    "count": 2726
+  },
+  "L": {
+    "file": "dictionary_L.json",
+    "count": 863
+  },
+  "M": {
+    "file": "dictionary_M.json",
+    "count": 1578
+  },
+  "N": {
+    "file": "dictionary_N.json",
+    "count": 584
+  },
+  "C": {
+    "file": "dictionary_C.json",
+    "count": 116
+  },
+  "O": {
+    "file": "dictionary_O.json",
+    "count": 1286
+  },
+  "R": {
+    "file": "dictionary_R.json",
+    "count": 255
+  },
+  "S": {
+    "file": "dictionary_S.json",
+    "count": 2654
+  },
+  "U": {
+    "file": "dictionary_U.json",
+    "count": 1064
+  },
+  "F": {
+    "file": "dictionary_F.json",
+    "count": 875
+  },
+  "X": {
+    "file": "dictionary_X.json",
+    "count": 667
+  },
+  "Y": {
+    "file": "dictionary_Y.json",
+    "count": 181
+  },
+  "W": {
+    "file": "dictionary_W.json",
+    "count": 128
+  }
+}
